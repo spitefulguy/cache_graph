@@ -1,0 +1,9 @@
+.deps/
+config.status
+config.log
+autoscan.log
+graph.pdf
+autom4te.cache/
+cache
+graph.ps
+main.o
